@@ -1,0 +1,12 @@
+const productName = "Apple";
+const category = "Fruit";
+let price = 500;
+let inStock = true;
+let quantity =  0;
+console.log(productName);
+console.log(category);
+console.log(price);
+console.log(inStock);
+console.log(productName);
+console.log(quantity);
+console.log(typeof price);
